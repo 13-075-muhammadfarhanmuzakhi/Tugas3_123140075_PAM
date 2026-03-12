@@ -16,7 +16,7 @@ Aplikasi Profile Mahasiswa yang dikembangkan menggunakan **Kotlin Multiplatform 
 
 | Kondisi Awal | Setelah Klik "Lihat Kontak" |
 | :---: | :---: |
-| ![Awal](screenshot_1_PAM3.png) | ![Klik](screenshot_2_PAM3.png) |
+| ![Awal](Screenshot_1_PAM3.png) | ![Klik](Screenshot_2_PAM3.png) |
 
 
 ## Cara Menjalankan
